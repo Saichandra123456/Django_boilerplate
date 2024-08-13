@@ -1,0 +1,4 @@
+{
+  "LOG_LEVEL": "DEBUG",
+  "JWT_EXP": 1
+}
